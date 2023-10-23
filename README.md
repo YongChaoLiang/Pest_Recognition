@@ -25,7 +25,7 @@ In this work, the training strategy of DeiT was followed. As shown in the table 
 |Conformer-T|23.0|5.3 G|61.2|0.509|[Conformer-T]()|
 |Swin-T|27.6|4.3 G|63.1|0.547|[Swin-T]()|
 |Swin-B|86.8|15.5 G|72.4|0.637|[Swin-B]()|
-|**Biformer-T(this work)**|**12.7**|**2.2 G**|**75.2**|**0.691**|[Biformer-T]()|
+|**Biformer-T(this work)**|**12.7**|**2.2 G**|**75.2**|**0.691**|[Biformer-T](https://drive.google.com/u/0/uc?id=1-uSJXy9IP9UKDeJOQwzw2DDfJMFrdK0n&export=download)|
 
 We used GradCAM to visulize the attention map. As shown in the following figure, Biformer could pinpoint pests with less environmental impact.
 
