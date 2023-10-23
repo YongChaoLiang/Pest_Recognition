@@ -20,12 +20,12 @@ Because of the high hardware requirements of deep learning-based pest identifica
 In this work, the training strategy of DeiT was followed. As shown in the table below, Biformer-T achieved 75.2% top1 accuarcy with 12.7 M parameters, which is better than others.
 |Name.|Parans.|FLOPs|Top1 ACC|F1 - macro|Model|
 |--|--|--|--|--|--|
-|Resnet50|23.7|4.1 G|63.5|0.552|[Resnet50]()|
-|Deit-S|21.7|4.6 G|62.3|0.536|[Deit-S]()|
-|Conformer-T|23.0|5.3 G|61.2|0.509|[Conformer-T]()|
-|Swin-T|27.6|4.3 G|63.1|0.547|[Swin-T]()|
-|Swin-B|86.8|15.5 G|72.4|0.637|[Swin-B]()|
-|**Biformer-T(this work)**|**12.7**|**2.2 G**|**75.2**|**0.691**|[Biformer-T](https://drive.google.com/u/0/uc?id=1-uSJXy9IP9UKDeJOQwzw2DDfJMFrdK0n&export=download)|
+|Resnet50|23.7|4.1 G|63.5|0.552|[GoogleDrive]()|
+|Deit-S|21.7|4.6 G|62.3|0.536|[GoogleDrive](https://drive.google.com/u/0/uc?id=1yrqHKtBPXnIfJSqc6a0UJ1SMC29h6Xc6&export=download)|
+|Conformer-T|23.0|5.3 G|61.2|0.509|[GoogleDrive](https://drive.google.com/u/0/uc?id=1ywC_Ep4k5Vzna0rDlqrqC0WLmCqkPs0n&export=download)|
+|Swin-T|27.6|4.3 G|63.1|0.547|[GoogleDrive]()|
+|Swin-B|86.8|15.5 G|72.4|0.637|[GoogleDrive](https://drive.google.com/u/0/uc?id=1UzvFEbGbGSZA9u7YvIn2vacx8aijDPMT&export=download)|
+|**Biformer-T(this work)**|**12.7**|**2.2 G**|**75.2**|**0.691**|[GoogleDrive](https://drive.google.com/u/0/uc?id=1-uSJXy9IP9UKDeJOQwzw2DDfJMFrdK0n&export=download)|
 
 We used GradCAM to visulize the attention map. As shown in the following figure, Biformer could pinpoint pests with less environmental impact.
 
